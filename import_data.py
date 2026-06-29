@@ -9,7 +9,7 @@ EXCEL_FILE = "Neo4j_Database_Sheets.xlsx"
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "Agnes@2006"
+NEO4J_PASSWORD = "userpassword"
 
 # =========================
 # CONNECT
